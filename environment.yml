@@ -5,8 +5,9 @@ dependencies:
   - python=3.8
   - pip
   - numpy
-  - transformers
+  - matplotlib
   - pip:
       - torch-1.10.0a0+git36449ea-cp38-cp38-linux_aarch64.whl
       - torchvision==0.11.1
       - timm
+      - transformers
